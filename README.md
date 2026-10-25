@@ -24,13 +24,14 @@
  > [WS] WebStorm
 
 -----------------------------------------------------------------
- [ FEATURED_OPERATIONS ]
+ [ FEATURED_REPOSITORIES ]
 -----------------------------------------------------------------
  > <a href="https://github.com/arg0WAK/WAK1360-Relapse">WAK1360-Relapse</a>    :: Kernel Exploit Chain (PS5 / 7.00-13.60)
  > <a href="https://github.com/arg0WAK/sce-hell0">sce-hell0</a>          :: C/C++ Payload Orchestrator & Homebrew
  > <a href="https://github.com/arg0WAK/WAK505-Core">WAK505-Core</a>        :: Kernel Exploit Chain (PS4 / 5.05)
  > <a href="https://github.com/arg0WAK/WAK1300-Raw">WAK1300-Raw</a>        :: Kernel Exploit Chain (PS4 / 13.00-13.52)
  > <a href="https://github.com/arg0WAK/Hackintosh-UEFI-MSI-B760-13900K">Hackintosh-UEFI...</a> :: OpenCore EFI Config (B760 & 13900K)
+ > <a href="https://github.com/arg0WAK/emby-proxy-helper">emby-proxy-helper</a>  :: Emby Proxy Helper (x_x) Shadow_Archive
  > <a href="https://github.com/arg0WAK/telegram-hooker">telegram-hooker</a>    :: Webhook Framework for Telegram
 
 -----------------------------------------------------------------
